@@ -1,0 +1,16 @@
+{
+  "name": "paysis-user-creation",
+  "version": "1.0.0",
+  "description": "User creation script for Paysis project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["paysis"],
+  "author": "Dmitrii Bormotov",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.3"
+  }
+}
